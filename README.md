@@ -1,9 +1,8 @@
 # Lauren M. Zdrojewski
 
 ## Contact Information
-**Lauren M. Zdrojewski** 
 (716) 949-2610  
-lmbaggett@gmail.com  
+LMbaggett@gmail.com  
 Naperville, IL 60564
 
 ## Professional Summary
