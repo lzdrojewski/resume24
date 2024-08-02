@@ -62,7 +62,6 @@ Engineering Manager with over fifteen years of software experience across the fi
 - Logged, troubleshooted, and triaged software bugs, performed root cause analysis.
 - Created and executed manual test cases, validated data using SQL statements.
 
-### Academic Management Systems/Liaison International | Amherst, NY
 **Product Support Specialist**  
 *October 2007 – October 2011*
 - Provided technical software support via telephone and email.
