@@ -17,7 +17,7 @@ Engineering Manager with over fifteen years of software experience across the fi
 
 ### Jack Henry | Monett, MO/Remote
 **Engineering Manager**  
-*February 2023 - Present*
+*February 2023 - July 2024*
 - Lead a team of 6 engineers and contractors, overseeing daily work and ensuring successful project delivery using Agile methodologies.
 - Foster collaboration and promote learning and cross-training opportunities for the team.
 - Develop and communicate roadmaps, facilitating alignment between support and engineering teams.
@@ -75,7 +75,7 @@ Engineering Manager with over fifteen years of software experience across the fi
 Major in Marketing
 
 ## Skills
-- Jira/Confluence, GIT, VSTS, Jenkins, Datadog, Airbrake, Sentry, Honeycomb
+- Jira/Confluence, GIT, VSTS, Jenkins, Datadog, Airbrake, Sentry, Honeycomb, Selenium
 - SQL, ETL, Postman, Slack
 - Azure, Google Cloud Suite, AWS
 - Rapid ability to learn and adapt to new technologies
