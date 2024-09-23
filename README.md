@@ -39,7 +39,8 @@ Driven and dedicated engineering leader with over 17 years of software experienc
 * **Improved Team Performance by 30%**: Developed a high-performing QA team across multiple time zones through targeted hiring and team development.  
 * **Boosted Client Satisfaction by 25%**: Managed crowd testing and client UAT efforts, reducing post-release defects by 20% and ensuring high-quality deliverables met client expectations.
 
-###**Liaison International 	 Amherst, NY**  
+### **Liaison International 	 Amherst, NY**  
+
 **Software Quality Engineer	October 2011 – December 2013**
 
 * **Reduced Integration Defects by 15%**: Conducted interface and database testing, ensuring seamless integration and functionality across web-based products.  
